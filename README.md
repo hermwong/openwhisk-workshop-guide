@@ -4,7 +4,7 @@
 
 ## Installing OpenWhisk CLI
 
-- Download from [OpenWhisk's GitHub](https://github.com/apache/incubator-openwhisk-cli/releases) or from the IBM BlueMix Console, look for the ["Looking for the wsk CLI"](https://console.bluemix.net/openwhisk/learn/cli) link at the bottom of the page.
+- Download from [OpenWhisk's GitHub](https://github.com/apache/incubator-openwhisk-cli/releases) or from the IBM Bluemix Console, look for the ["Looking for the wsk CLI"](https://console.bluemix.net/openwhisk/learn/cli) link at the bottom of the page.
 
 ### wsk set up
 
@@ -15,6 +15,10 @@
 
 export PATH="path/to/wsk:$PATH"
 ```
+
+## Sign up for IBM Bluemix OpenWhisk
+
+- Signing up for [IBM Bluemix OpenWhisk](https://console.bluemix.net/registration/?target=/openwhisk&cm_mc_uid=41935541757615060554411&cm_mc_sid_50200000=1506537489&cm_mc_sid_52640000=&S_VCPI=Search_Google-_-Cloud_Cloud+Platform-_-WW_US-_-blue+mix+ibm_Exact_) will allow you to try out the exercises in the workshop.
 
 ## Docs for using JavaScript with OpenWhisk
 
