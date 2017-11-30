@@ -1,3 +1,7 @@
+# OpenWhisk-Workshop Guide
+
+- example files for [OpenWhisk-Workshop](https://www.npmjs.com/package/openwhisk-workshop) and also additional set up info.
+
 ## Installing OpenWhisk CLI
 
 - Download from [OpenWhisk's GitHub](https://github.com/apache/incubator-openwhisk-cli/releases) or from the IBM BlueMix Console, look for the ["Looking for the wsk CLI"](https://console.bluemix.net/openwhisk/learn/cli) link at the bottom of the page.
